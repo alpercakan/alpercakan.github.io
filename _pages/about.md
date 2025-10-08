@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am computer science PhD student at Carnegie Mellon University, advised by Vipul Goyal. My research interest is in quantum cryptography and more broadly, theoretical computer science.
+I am computer science PhD student at Carnegie Mellon University, advised by [Vipul Goyal](vipulgoyal.org/). My research interest is in quantum cryptography and more broadly, theoretical computer science.
