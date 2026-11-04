@@ -27,13 +27,17 @@ Alper Cakan.<br>
 Alper Cakan, Kai-Min Chung, Wei-Hsiang Hung, and Tzu-Yi Yang.<br>
 *Preprint* · [arXiv](https://arxiv.org/abs/2610.06740)
 
-**Copy-Protection with Correlated Challenges: Point Functions and More via Decisional Coset Monogamy**<br>
+**Decisional Monogamy-of-Entanglement for Coset States and Applications to Unclonable Cryptography with Correlated Challenges**<br>
 Amit Behera, Alper Cakan, and Vipul Goyal.<br>
 *Preprint* · [arXiv](https://arxiv.org/abs/2608.18841)
 
 **Public-Key Quantum Fire and Key-Fire From Classical Oracles**<br>
 Alper Cakan, Vipul Goyal, and Omri Shmueli.<br>
 **CRYPTO'26** · QCrypt'25 (talk) · [ePrint](https://eprint.iacr.org/2025/726)
+
+**How to Copy-Protect Malleable-Puncturable Cryptographic Functionalities Under Arbitrary Challenge Distributions: A Unified Solution to Quantum Protection**<br>
+Alper Cakan and Vipul Goyal.<br>
+**EUROCRYPT'26** · [ePrint](https://eprint.iacr.org/2025/1357)
 
 **Multi-Copy Security in Quantum Cryptography and More**<br>
 Alper Cakan, Vipul Goyal, Fuyuki Kitagawa, Ryo Nishimaki, and Takashi Yamakawa.<br>
@@ -46,10 +50,6 @@ Alper Cakan, Vipul Goyal, and Takashi Yamakawa.<br>
 **How to Delete Without a Trace: Certified Deniability in a Quantum World**<br>
 Alper Cakan, Vipul Goyal, and Justin Raizes.<br>
 **CRYPTO'26** · QIP'25 (talk) · QCrypt'26 (talk) · [ePrint](https://eprint.iacr.org/2024/1832)
-
-**How to Copy-Protect Malleable-Puncturable Cryptographic Functionalities Under Arbitrary Challenge Distributions: A Unified Solution to Quantum Protection**<br>
-Alper Cakan and Vipul Goyal.<br>
-**EUROCRYPT'26** · [ePrint](https://eprint.iacr.org/2025/1357)
 
 **On the Cryptographic Futility of Non-Collapsing Measurements**<br>
 Alper Cakan, Dakshita Khurana, Tomoyuki Morimae, Yuki Shirakawa, Kabir Tomer, and Takashi Yamakawa.<br>
