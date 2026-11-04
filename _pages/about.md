@@ -17,11 +17,11 @@ You can contact me at [alpercakan98@gmail.com](mailto:alpercakan98@gmail.com) fo
 **Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA**<br>
 Alper Cakan.<br>
 *Manuscript*
-[PDF](https://drive.google.com/file/d/1URMiIapV2WWkwuLIesKa7Zetofr4GyxC/view?usp=sharing)
+[PDF](https://drive.google.com/file/d/1fSKANvwcACWRq8KVvUPDsCDNOkAd-Kcg/view?usp=sharing)
 
 **Separating QMA from QCIP with a Classical Oracle, or, the Power of Quantum Proofs over Classical Interaction for Quantum Verifiers**<br>
 Alper Cakan.<br>
-*Preprint* · [PDF](https://drive.google.com/file/d/1plcXClVGDOsj_1PxYkMuDSYl0IoRRpxc/view?usp=sharing)
+*Preprint* · [PDF](https://drive.google.com/file/d/1G5hqKyy_yJvPqceq8PPsazTZJ-gDFFyn/view?usp=sharing)
 
 **Separating ClonableQMA and QCMA Relative to a Classical Oracle**<br>
 Alper Cakan, Kai-Min Chung, Wei-Hsiang Hung, and Tzu-Yi Yang.<br>
