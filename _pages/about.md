@@ -10,7 +10,7 @@ I am a graduating computer science PhD student at Carnegie Mellon University, ad
 
 My research interest is in quantum cryptography and related questions in quantum complexity, and more broadly, theoretical computer science. I am always happy to discuss any of these topics, or talk about my work. Please feel free to me contact me at [alpercakan98@gmail.com](mailto:alpercakan98@gmail.com).
 
-## Publications and Preprints (Alphabetical author order, as is standard in my area)
+## Publications and Preprints <small>(alphabetical author order, as is standard in my area)</small>
 
 **Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA**<br>
 Alper Cakan.<br>
