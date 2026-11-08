@@ -6,30 +6,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer science PhD student at Carnegie Mellon University, advised by [Vipul Goyal](https://vipulgoyal.org/). My research interest is in quantum cryptography and more broadly, theoretical computer science.
+I am a graduating computer science PhD student at Carnegie Mellon University, advised by [Vipul Goyal](https://vipulgoyal.org/). I am funded in part by a CyLab Presidential Fellowship.
 
-You can contact me at [alpercakan98@gmail.com](mailto:alpercakan98@gmail.com) for any questions.
+My research interest is in quantum cryptography and related questions in quantum complexity, and more broadly, theoretical computer science. I am always happy to discuss any of these topics, or talk about my work. Please feel free to me contact me at [alpercakan98@gmail.com](mailto:alpercakan98@gmail.com).
 
 ## Publications and Preprints
 
-### 2026
-
 **Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA**<br>
 Alper Cakan.<br>
-*Manuscript*
-[PDF](https://drive.google.com/file/d/1fSKANvwcACWRq8KVvUPDsCDNOkAd-Kcg/view?usp=sharing)
+*In Submission*
+[Manuscript PDF](https://drive.google.com/file/d/1fSKANvwcACWRq8KVvUPDsCDNOkAd-Kcg/view?usp=sharing)
 
 **Separating QMA from QCIP with a Classical Oracle, or, the Power of Quantum Proofs over Classical Interaction for Quantum Verifiers**<br>
 Alper Cakan.<br>
-*Preprint* · [PDF](https://drive.google.com/file/d/1G5hqKyy_yJvPqceq8PPsazTZJ-gDFFyn/view?usp=sharing)
+*In Submission* · [Manuscript PDF](https://drive.google.com/file/d/1G5hqKyy_yJvPqceq8PPsazTZJ-gDFFyn/view?usp=sharing)
 
 **Separating ClonableQMA and QCMA Relative to a Classical Oracle**<br>
 Alper Cakan, Kai-Min Chung, Wei-Hsiang Hung, and Tzu-Yi Yang.<br>
-*Preprint* · [arXiv](https://arxiv.org/abs/2610.06740)
+*In Submission* · [arXiv](https://arxiv.org/abs/2610.06740)
 
 **Decisional Monogamy-of-Entanglement for Coset States and Applications to Unclonable Cryptography with Correlated Challenges**<br>
 Amit Behera, Alper Cakan, and Vipul Goyal.<br>
-*Preprint* · [arXiv](https://arxiv.org/abs/2608.18841)
+*In Submission* · [arXiv](https://arxiv.org/abs/2608.18841)
 
 **Public-Key Quantum Fire and Key-Fire From Classical Oracles**<br>
 Alper Cakan, Vipul Goyal, and Omri Shmueli.<br>
@@ -78,3 +76,8 @@ Marshall Ball, Alper Cakan, and Tal Malkin.<br>
 **Importance-Driven Deep Learning System Testing**<br>
 Simos Gerasimou, Hasan Ferit Eniser, Alper Sen, and Alper Cakan.<br>
 **ICSE'20** · [arXiv](https://arxiv.org/abs/2002.03433)
+
+## Conference Reviews
+I have served as an external reviewer or subreviewer for the following venues.
+
+ASIACRYPT (2025, 2026), CRYPTO (2025, 2026), EUROCRYPT (2026, 2027), FOCS (2024), ITC (2025), ITCS (2026), QCrypt (2024), QIP (2025, 2027), RANDOM (2026), STOC (2027), TCC (2021, 2023, 2024, 2026), TQC (2024, 2025, 2026), Quantum.
