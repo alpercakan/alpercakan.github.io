@@ -80,4 +80,4 @@ Marshall Ball, Alper Cakan, and Tal Malkin.<br>
 ## Conference Reviews
 I have served as an external reviewer or subreviewer for the following venues.
 
-ASIACRYPT (2025, 2026), CRYPTO (2025, 2026), EUROCRYPT (2026, 2027), FOCS (2024), ITC (2025), ITCS (2026), QCrypt (2024), QIP (2025, 2027), RANDOM (2026), STOC (2027), TCC (2021, 2023, 2024, 2026), TQC (2024, 2025, 2026), Quantum.
+ASIACRYPT (2025, 2026), CRYPTO (2025, 2026), EUROCRYPT (2026, 2027), FOCS (2024), ITC (2025), ITCS (2026), QCrypt (2024), QIP (2025, 2027), Quantum (Journal), RANDOM (2026), STOC (2027), TCC (2021, 2023, 2024, 2026), TQC (2024, 2025, 2026), Quantum.
